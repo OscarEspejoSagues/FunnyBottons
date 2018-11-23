@@ -1,0 +1,258 @@
+{"sounds": [
+  {
+    "id": 1,
+    "title": "I said whoever threw that paper",
+    "file": "paper"
+  },
+  {
+    "id": 2,
+    "title": "Roblox death sound",
+    "file": "oof"
+  },
+  {
+    "id": 3,
+    "title": "Mega-faggot",
+    "file": "faggot"
+  },
+  {
+    "id": 4,
+    "title": "I'm Semi I stay automatic",
+    "file": "semi"
+  },
+  {
+    "id": 5,
+    "title": "Can I please get a waffle?",
+    "file": "waffle"
+  },
+  {
+    "id": 6,
+    "title": "What happened to Dorcas?",
+    "file": "dorcas"
+  },
+  {
+    "id": 7,
+    "title": "Trust nobody",
+    "file": "trust"
+  },
+  {
+    "id": 8,
+    "title": "Za Warudo",
+    "file": "world"
+  },
+  {
+    "id": 9,
+    "title": "I'm gay",
+    "file": "gay"
+  },
+  {
+    "id": 10,
+    "title": "Megalovania",
+    "file": "sans"
+  },
+  {
+    "id": 11,
+    "title": "Don't fucking vape on the pizza!",
+    "file": "pizza"
+  },
+  {
+    "id": 12,
+    "title": "Fortnite default dance",
+    "file": "fortnite"
+  },
+  {
+    "id": 13,
+    "title": "It's Wednesday my dudes",
+    "file": "wednesday"
+  },
+  {
+    "id": 14,
+    "title": "Yodeling Walmart Kid",
+    "file": "yodel"
+  },
+  {
+    "id": 15,
+    "title": "Look at my african american",
+    "file": "african"
+  },
+  {
+    "id": 16,
+    "title": "meperd0n as?",
+    "file": "perdon"
+  },
+  {
+    "id": 17,
+    "title": "te perdOno !1",
+    "file": "perdonado"
+  },
+  {
+    "id": 18,
+    "title": "Why are you running?",
+    "file": "running"
+  },
+  {
+    "id": 19,
+    "title": "La caída de Edgar",
+    "file": "edgar"
+  },
+  {
+    "id": 20,
+    "title": "Let's go!",
+    "file": "letsgo"
+  },
+  {
+    "id": 21,
+    "title": "You want penis enlargement pills?",
+    "file": "pills"
+  },
+  {
+    "id": 22,
+    "title": "Sad harmonica",
+    "file": "sad"
+  },
+  {
+    "id": 23,
+    "title": "Super Mario 64 enter painting",
+    "file": "sixtyfour"
+  },
+  {
+    "id": 24,
+    "title": "Bitconnect!",
+    "file": "bitconnect"
+  },
+  {
+    "id": 25,
+    "title": "Tú crees que esto es normal?",
+    "file": "normal"
+  },
+  {
+    "id": 26,
+    "title": "Bonfire cursed images",
+    "file": "bonfire"
+  },
+  {
+    "id": 27,
+    "title": "Bro, WTF?!",
+    "file": "browtf"
+  },
+  {
+    "id": 28,
+    "title": "Chico, que vas a hacer?",
+    "file": "chico"
+  },
+  {
+    "id": 29,
+    "title": "Crab Rave",
+    "file": "crabrave"
+  },
+  {
+    "id": 30,
+    "title": "Deja vu",
+    "file": "dejavu"
+  },
+  {
+    "id": 31,
+    "title": "Esto es el Bronx",
+    "file": "bronx"
+  },
+  {
+    "id": 32,
+    "title": "How it feels to chew Five Gum",
+    "file": "fivegum"
+  },
+  {
+    "id": 33,
+    "title": "Filthy Frank watcha say",
+    "file": "watchasay"
+  },
+  {
+    "id": 34,
+    "title": "Pim pam trucu trucu",
+    "file": "pimpamtrucutrucu"
+  },
+  {
+    "id": 35,
+    "title": "Pumped baby lifting",
+    "file": "babylift"
+  },
+  {
+    "id": 36,
+    "title": "Que no? Madre mía",
+    "file": "queno"
+  },
+  {
+    "id": 37,
+    "title": "I'm Pickle Rick!",
+    "file": "pickle"
+  },
+  {
+    "id": 38,
+    "title": "Roundabout (to be continued)",
+    "file": "continued"
+  },
+  {
+    "id": 39,
+    "title": "We'll be right back",
+    "file": "rightback"
+  },
+  {
+    "id": 40,
+    "title": "What the fuck, Richard?",
+    "file": "richard"
+  },
+  {
+    "id": 41,
+    "title": "AAA battery scream",
+    "file": "aaa"
+  },
+  {
+    "id": 42,
+    "title": "Bitch disgusting",
+    "file": "disgusting"
+  },
+  {
+    "id": 43,
+    "title": "I don't care that you broke your elbow",
+    "file": "elbow"
+  },
+  {
+    "id": 44,
+    "title": "Burnt chicken nugget",
+    "file": "nugget"
+  },
+  {
+    "id": 45,
+    "title": "Jimmy Neutron 'Gotta blast!'",
+    "file": "blast"
+  },
+  {
+    "id": 46,
+    "title": "Lebron James",
+    "file": "lebron"
+  },
+  {
+    "id": 47,
+    "title": "Look at this graph",
+    "file": "graph"
+  },
+  {
+    "id": 48,
+    "title": "Happy Chrimas!",
+    "file": "chrimas"
+  },
+  {
+    "id": 49,
+    "title": "Kricketune DELELELELELEWOOOOOP",
+    "file": "kricketune"
+  },
+  {
+    "id": 50,
+    "title": "Squidward on a chair!",
+    "file": "squidward"
+  },
+  {
+    "id": 51,
+    "title": "Spiderman pizza theme",
+    "file": "spiderpizza"
+  }
+]
+}

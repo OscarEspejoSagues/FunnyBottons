@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "750890924713",
+    "firebase_url": "https://epicsoundboardlmao.firebaseio.com",
+    "project_id": "epicsoundboardlmao",
+    "storage_bucket": "epicsoundboardlmao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750890924713:android:9b911228a3ec4633",
+        "android_client_info": {
+          "package_name": "com.adriaortizmartinez.epicsoundboardlmao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750890924713-ecc0a51tgj4l8jca3gic7rhqet2kohvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adriaortizmartinez.epicsoundboardlmao",
+            "certificate_hash": "78cd60965e99c987e365dc8fc1de488ecead7d2a"
+          }
+        },
+        {
+          "client_id": "750890924713-s8ohrc0f6i13cq940903j1p5e8k039e3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA31Xl2GdVrEnzeOANKVlenVAAGHwTtxoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750890924713-s8ohrc0f6i13cq940903j1p5e8k039e3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
