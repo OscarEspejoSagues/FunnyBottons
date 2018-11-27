@@ -27,8 +27,6 @@ class SoundsAdapter(var soundList: ArrayList<SoundModel>) : RecyclerView.Adapter
         viewHolder.soundButton.setOnClickListener{
             onSoundClickListener?.onItemClick(soundList[position], position)
         }
-        // TODO¨Random
-        viewHolder.soundButton.setBackgroundResource(R.drawable.selector_button_sound)
     }
 
     class SoundViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView){
